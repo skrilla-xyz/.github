@@ -6,6 +6,9 @@ Basically, this is just a game that allow you to play crypto investing with your
 2. allow each one to trade with money
 
 DRAFT NOTES:
+
+https://skrilla.webflow.io/
+
 invite your friends
 
 you can see everyone's portfolio
